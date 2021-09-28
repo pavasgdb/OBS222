@@ -1,0 +1,2 @@
+The code obss22 is the main code for image recognition.
+Currently the codes have been tested only on MAC system.
